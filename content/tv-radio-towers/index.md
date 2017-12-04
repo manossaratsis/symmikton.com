@@ -9,6 +9,7 @@ Symmikton S.A. has successfully been involved with construction and development 
 
 Our company also undertook the construction of radio station infrastructure, including studios and broadcast centers.
 
+![tv-tower-1](tv-tower-1.jpg)
 
 ## ScopeOur scope of work in this field can be summarized as follows:### Search & acquisition of location
 * Identification of broadcast center location and coverage radius* Acquisition of land from forest services and private entities* Acquisition of special permit from the archaeological service
@@ -28,6 +29,12 @@ Our company also undertook the construction of radio station infrastructure, inc
 | Mega Channel   | Satellite receiving station | Peania                                |
 | Mega Channel   | Broadcast centers           | 12 locations across Greece            |
 | Mega Channel   | Repeaters                   | 19 locations across Greece            |
+
+![tv-tower-2](tv-tower-2.jpg)
+![tv-tower-3](tv-tower-3.jpg)
+![tv-equipment-1](tv-equipment-1.jpg)
+![tv-equipment-2](tv-equipment-2.jpg)
+![tv-equipment-3](tv-equipment-3.jpg)
 
 ### Radio
 
