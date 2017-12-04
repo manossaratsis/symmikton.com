@@ -3,6 +3,10 @@ title: Home
 ---
 
 # Symmikton
+{: .header}
+
+Fast & precise steel structures
+{: .subheader}
 
 [Our facility](our-facility/index.html){: .thumbnail}
 
@@ -12,6 +16,5 @@ title: Home
 
 [Telecom towers](telecom-towers/index.html){: .thumbnail}
 
----
-
 Contact us at [info@symmikton.com](mailto:info@symmikton.com)
+{: .footer}
