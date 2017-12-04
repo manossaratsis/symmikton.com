@@ -1,5 +1,6 @@
 ---
 title: Telecom towers
+banner: telecom-towers-banner.jpg
 ---
 
 # Telecom towers

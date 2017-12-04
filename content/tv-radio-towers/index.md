@@ -1,5 +1,6 @@
 ---
 title: TV & Radio towers
+banner: tv-radio-towers-banner.jpg
 ---
 
 # TV & Radio towers

@@ -1,5 +1,6 @@
 ---
 title: Steel buildings
+banner: steel-buildings-banner.jpg
 ---
 
 # Steel buildings

@@ -1,5 +1,6 @@
 ---
 title: Our facility
+banner: our-facility-banner.jpg
 ---
 
 # Our facility

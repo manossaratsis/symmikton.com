@@ -23,6 +23,15 @@ a:hover {
   text-decoration: underline;
 }
 
+.banner {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 4px 4px 8px #ddd;
+  height: 400px;
+  width: 100vw;
+}
+
 .main {
   font-size: 1em;
   left: calc((100vw - 680px)/2);
@@ -94,13 +103,21 @@ a:hover {
 
 .thumbnail {
   background-color: #eee;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
   border-radius: 7px;
   box-shadow: 4px 4px 8px #ddd;
   display: block;
   font-size: 1.5em;
   font-weight: bold;
   padding: 2em;
+  text-shadow: 1px 1px 2px #333;
   text-align: center;
+}
+
+.thumbnail a {
+  color: #fff;
 }
 
 .caption {

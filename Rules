@@ -2,7 +2,11 @@
 
 compile '/**/*.md' do
     filter :kramdown, toc_levels: 2..2
-    layout '/default.html'
+    if @item.identifier =~ '/index.*'
+        layout '/home.html'
+    else
+        layout '/default.html'
+    end
     filter :relativize_paths, type: :html
 end
 
