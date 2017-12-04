@@ -7,7 +7,7 @@
 }
 
 body {
-  background: #fff;
+  background: #ddd;
 }
 
 a {
@@ -16,7 +16,7 @@ a {
 
 a:link,
 a:visited {
-  color: #aaa;
+  color: #999;
 }
 
 a:hover {
@@ -27,8 +27,8 @@ a:hover {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  box-shadow: 4px 4px 8px #ddd;
-  height: 400px;
+  box-shadow: 4px 4px 8px #bbb;
+  height: 300px;
   width: 100vw;
 }
 
@@ -43,7 +43,7 @@ a:hover {
 }
 
 .main h1 {
-  border-bottom: 4px solid #ccc;
+  border-bottom: 4px solid #bbb;
   font-size: 2.5em;
   font-weight: bold;
   margin-bottom: 1em;
@@ -51,7 +51,7 @@ a:hover {
 }
 
 .main h2 {
-  border-bottom: 2px solid #ddd;
+  border-bottom: 2px solid #bbb;
   margin-bottom: 0.5em;
   margin-top: 2em;
   padding-bottom: 0.5em;
@@ -72,7 +72,7 @@ a:hover {
 }
 
 .main table tr {
-  border-bottom: 2px solid #eee;
+  border-bottom: 2px solid #ccc;
 }
 
 .main table td:first-child {
@@ -89,7 +89,7 @@ a:hover {
 
 .main img {
   border-radius: 7px;
-  box-shadow: 3px 3px 8px #ccc;
+  box-shadow: 3px 3px 8px #bbb;
   margin-top: 2em;
   width: 100%;
 }
@@ -102,12 +102,11 @@ a:hover {
 }
 
 .thumbnail {
-  background-color: #eee;
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 7px;
-  box-shadow: 4px 4px 8px #ddd;
+  box-shadow: 4px 4px 8px #bbb;
   display: block;
   font-size: 1.5em;
   font-weight: bold;
@@ -121,7 +120,7 @@ a:hover {
 }
 
 .caption {
-  color: #bbb;
+  color: #aaa;
   font-style: italic;
 }
 
@@ -130,7 +129,7 @@ h1.header {
 }
 
 p.subheader {
-  color: #bbb;
+  color: #aaa;
   margin-bottom: 3em;
   text-transform: lowercase;
 }
