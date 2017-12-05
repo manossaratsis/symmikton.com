@@ -3,9 +3,19 @@
   <head>
     <meta charset="utf-8">
     <title>Symmikton | <%= @item[:title] %></title>
-    <link rel="stylesheet" href="/stylesheet.css">
+    <link rel="stylesheet" href="/css/stylesheet.css">
     <meta name="generator" content="Nanoc <%= Nanoc::VERSION %>">
   </head>
+  <div class="nav-bar">
+    <ul class="nav-menu">
+      <li class="logo-mini"><img src="/img/symmikton-logo-mini.svg" alt="logo"/></li>
+      <li><a href="/">Home</a></li>
+      <li><a href="/our-facility">Our facility</a></li>
+      <li><a href="/steel-buildings">Steel buildings</a></li>
+      <li><a href="/tv-radio-towers">TV & radio towers</a></li>
+      <li><a href="/telecom-towers">Telecom towers</a></li>
+    </ul>
+  </div>
   <body>
     <header class="banner" style="background-image: url(<%= @item[:banner] %>)"/>
     <div class="main">
@@ -15,4 +25,5 @@
       Symmikton S.A. | Inofita, Viotia, Greece | <a href="mailto:infor@symmikton.com">info@symmikton.com</a>
     </footer>
   </body>
+  <script src="/js/navbar.js"></script>
 </html>

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Catamaran:200,400,700');
+@import url('https://fonts.googleapis.com/css?family=Catamaran:400,700');
 
 * {
   margin: 0;
@@ -23,12 +23,51 @@ a:hover {
   text-decoration: underline;
 }
 
+ul.nav-menu {
+    background-color: rgba(235, 235, 235, 0.7);
+    height: 3em;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 1em;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    z-index: 1;
+}
+
+ul.nav-menu li {
+    float: left;
+}
+
+ul.nav-menu li a {
+    color: #000;
+    display: inline-block;
+    font-size: 0.8em;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    padding: 1em;
+    text-transform: uppercase;
+}
+
+ul.nav-menu li.logo-mini {
+    width: 3em;
+}
+
+ul.nav-menu li a.current-link {
+    background-color: rgba(255, 255, 255, 1.0);
+}
+
+ul.nav-menu li a:not(.current-link):hover {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
 header.banner {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
   box-shadow: 3px 3px 6px #aaa;
-  height: 300px;
+  height: 400px;
   width: 100vw;
 }
 

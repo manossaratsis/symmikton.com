@@ -3,12 +3,12 @@
   <head>
     <meta charset="utf-8">
     <title>Symmikton | <%= @item[:title] %></title>
-    <link rel="stylesheet" href="/stylesheet.css">
+    <link rel="stylesheet" href="/css/stylesheet.css">
     <meta name="generator" content="Nanoc <%= Nanoc::VERSION %>">
   </head>
   <body>
     <header class="logo">
-      <img alt="symmikton-logo" src="symmikton-logo.svg"/>
+      <img alt="symmikton-logo" src="/img/symmikton-logo.svg"/>
     </header>
     <div class="main">
       <%= yield %>
@@ -17,4 +17,5 @@
       Symmikton S.A. | Inofita, Viotia, Greece | <a href="mailto:info@symmikton.com">info@symmikton.com</a>
     </footer>
   </body>
+  <script src="/js/navbar.js"></script>
 </html>
