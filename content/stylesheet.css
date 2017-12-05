@@ -23,22 +23,28 @@ a:hover {
   text-decoration: underline;
 }
 
-.banner {
+header.banner {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  box-shadow: 4px 4px 8px #bbb;
+  box-shadow: 3px 3px 6px #aaa;
   height: 300px;
   width: 100vw;
+}
+
+header.logo img {
+  height: 6em;
+  margin-top: 4em;
+  position: relative;
+  width: 100%;
 }
 
 .main {
   font-size: 1em;
   left: calc((100vw - 680px)/2);
   line-height: 2em;
-  position: absolute;
-  margin-bottom: 2em;
-  margin-top: 4em;
+  position: relative;
+  margin-top: 3em;
   width: 680px;
 }
 
@@ -89,7 +95,7 @@ a:hover {
 
 .main img {
   border-radius: 7px;
-  box-shadow: 3px 3px 8px #bbb;
+  box-shadow: 3px 3px 6px #aaa;
   margin-top: 2em;
   width: 100%;
 }
@@ -101,18 +107,21 @@ a:hover {
   position: relative;
 }
 
-.thumbnail {
+p.thumbnail {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 7px;
-  box-shadow: 4px 4px 8px #bbb;
-  display: block;
+  box-shadow: 3px 3px 6px #aaa;
+  box-sizing: border-box;
+  display: inline-block;
   font-size: 1.5em;
   font-weight: bold;
-  padding: 2em;
+  margin: 0.22em 0.15em;
+  padding: 8em 0;
   text-shadow: 1px 1px 2px #333;
   text-align: center;
+  width: calc(50% - 0.4em);
 }
 
 .thumbnail a {
@@ -124,20 +133,12 @@ a:hover {
   font-style: italic;
 }
 
-h1.header {
-  margin: 0;
-}
-
-p.subheader {
-  color: #aaa;
-  margin-bottom: 3em;
-  text-transform: lowercase;
-}
-
-p.footer {
-  margin-top: 3em;
-}
-
-.header, .subheader, .footer {
+footer {
+  bottom: 3em;
+  color: #bbb;
+  margin-top: 6em;
+  padding-top: 1em;
+  position: relative;
   text-align: center;
+  width: 100%;
 }
