@@ -1,6 +1,6 @@
 ---
 title: Steel buildings
-banner: steel-buildings-banner.jpg
+banner: commercial/factory-outlet-2.jpg
 ---
 
 # Steel buildings
@@ -28,33 +28,32 @@ Our experienced **Architectural Department** proposes the functionally and econo
 | Factory Outlet S.A.     | Total area 12,000m<span class="sup">2</span> | Shopping mall<br/>Athens International Airport Retail Park |
 | Porcelana S.A.          | Total area 10,000m<span class="sup">2</span> | Furniture exhibition building<br/>Markopoulo Industrial Zone |
 | A.B. Vassilopoulos S.A. | Total area 3,030m<span class="sup">2</span> | Supermarket<br/>Vrilissia, Attiki |
-| Kteo Kifisias S.A.      | Total area 1,000m<span class="sup">2</span> | Auto inspection building<br/>Marousi, Attiki |
 | Velmar S.A.             | Total area 990m<span class="sup">2</span> | Auto exhibition building<br/>Gerakas, Attiki |
 | Sakiotis S.A.           | Total area 600m<span class="sup">2</span> | Office and retail building<br/>Pireas, Attiki |
 
 
 ![ibc-1](commercial/ibc-1.jpg)
-International Broadcast Center - aerial view
+Ellaktor S.A. - aerial view
 {: .caption}
 
 ![ibc-2](commercial/ibc-2.jpg)
-International Broadcast Center - steel frame erection phase
+Ellaktor S.A. - steel frame erection phase
 {: .caption}
 
 ![ibc-3](commercial/ibc-3.jpg)
-International Broadcast Center - aerial view
+Ellaktor S.A. - aerial view
 {: .caption}
 
 ![factory-outlet-1](commercial/factory-outlet-1.jpg)
-Factory Outlet - aerial view with the Athens Airport landing strip in the background
+Factory Outlet S.A. - aerial view with the Athens Airport landing strip in the background
 {: .caption}
 
 ![factory-outlet-2](commercial/factory-outlet-2.jpg)
-Factory Outlet - facade close-up
+Factory Outlet S.A. - facade close-up
 {: .caption}
 
 ![factory-outlet-3](commercial/factory-outlet-3.jpg)
-Factory Outlet - facade close-up
+Factory Outlet S.A. - facade close-up
 {: .caption}
 
 ![porcelana-1](commercial/porcelana-1.jpg)
@@ -67,10 +66,6 @@ Porcelana S.A. - exterior view
 
 ![ab-vassilopoulos](commercial/ab-vassilopoulos.jpg)
 A.B. Vassilopoulos S.A. - exterior view
-{: .caption}
-
-![kteo](commercial/kteo.jpg)
-Kteo Kifisias S.A. - exterior view
 {: .caption}
 
 
@@ -89,6 +84,7 @@ Kteo Kifisias S.A. - exterior view
 | Krivek S.A.          | Production 2,500m<span class="sup">2</span><br/>Offices 500m<span class="sup">2</span>   | Food processing and distribution plant<br/>Hersonisos, Kriti |
 | Media Strom S.A.     | Production 5,000m<span class="sup">2</span><br/>Offices 700m<span class="sup">2</span>   | Matress manufacturing plant<br/>Markopoulo Industrial Zone |
 | Tsanos S.A.          | Production 1,185m<span class="sup">2</span><br/>Offices 200m<span class="sup">2</span>   | Bread processing and distribution plant<br/>Markopoulo Industrial Zone |
+| Kteo Kifisias S.A.      | Total area 1,000m<span class="sup">2</span> | Auto inspection building<br/>Marousi, Attiki |
 | Kafea S.A.           | Production 2,400m<span class="sup">2</span><br/>Offices 200m<span class="sup">2</span>   | Coffee processing and distribution plant<br/>Peania Industrial Zone |
 
 ![e-papadopoulos](manufacturing/e-papadopoulos.jpg)
@@ -131,8 +127,8 @@ Media Strom S.A. - exterior view
 Media Strom S.A. - interior view
 {: .caption}
 
-![tsanos](manufacturing/tsanos.jpg)
-Tsanos S.A. - exterior view
+![kteo](manufacturing/kteo.jpg)
+Kteo Kifisias S.A. - exterior view
 {: .caption}
 
 ![kafea](manufacturing/kafea.jpg)

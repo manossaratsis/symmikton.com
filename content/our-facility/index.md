@@ -1,6 +1,6 @@
 ---
 title: Our facility
-banner: our-facility-banner.jpg
+banner: robot.jpg
 ---
 
 # Our facility
