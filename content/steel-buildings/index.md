@@ -28,6 +28,7 @@ Our experienced **Architectural Department** proposes the functionally and econo
 | Factory Outlet S.A.     | Total area 12,000m<span class="sup">2</span> | Shopping mall<br/>Athens International Airport Retail Park |
 | Porcelana S.A.          | Total area 10,000m<span class="sup">2</span> | Furniture exhibition building<br/>Markopoulo Industrial Zone |
 | A.B. Vassilopoulos S.A. | Total area 3,030m<span class="sup">2</span> | Supermarket<br/>Vrilissia, Attiki |
+| Kteo Kifisias S.A.      | Total area 1,000m<span class="sup">2</span> | Auto inspection building<br/>Marousi, Attiki |
 | Velmar S.A.             | Total area 990m<span class="sup">2</span> | Auto exhibition building<br/>Gerakas, Attiki |
 | Sakiotis S.A.           | Total area 600m<span class="sup">2</span> | Office and retail building<br/>Pireas, Attiki |
 
@@ -56,16 +57,20 @@ Factory Outlet - facade close-up
 Factory Outlet - facade close-up
 {: .caption}
 
-![ab-vassilopoulos](commercial/ab-vassilopoulos.jpg)
-A.B. Vassilopoulos S.A. - exterior view
-{: .caption}
-
 ![porcelana-1](commercial/porcelana-1.jpg)
 Porcelana S.A. - facade close-up
 {: .caption}
 
 ![porcelana-2](commercial/porcelana-2.jpg)
 Porcelana S.A. - exterior view
+{: .caption}
+
+![ab-vassilopoulos](commercial/ab-vassilopoulos.jpg)
+A.B. Vassilopoulos S.A. - exterior view
+{: .caption}
+
+![kteo](commercial/kteo.jpg)
+Kteo Kifisias S.A. - exterior view
 {: .caption}
 
 
@@ -75,15 +80,85 @@ Porcelana S.A. - exterior view
 |:--                   |:--   | :--         |
 | Craft S.A.           | Production 1,200m<span class="sup">2</span><br/>Offices 300m<span class="sup">2</span>   | Microbrewery building<br/>Peania Industrial Zone |
 | Skarlis Marbles S.A. | Production 2,000m<span class="sup">2</span><br/>Offices 300m<span class="sup">2</span>   | Marble processing plant<br/>Aliveri, Evia |
-| Viopremex S.A.       | Production 750m<span class="sup">2</span><br/>Offices 250m<span class="sup">2</span>   | Aluminum equipment production plant<br/>Thiva, Viotia |
+| Viopremex S.A.       | Production 750m<span class="sup">2</span><br/>Offices 250m<span class="sup">2</span>     | Aluminum equipment production plant<br/>Thiva, Viotia |
 | E.Papadopoulos S.A.  | Production 2,680m<span class="sup">2</span><br/>Offices 340m<span class="sup">2</span>   | Wood processing plant with exhibition space<br/>Avlonas, Attiki |
 | Viamak S.A.          | Production 3,715m<span class="sup">2</span><br/>Offices 200m<span class="sup">2</span>   | Textile manufacturing plant<br/>Koropi Industrial zone |
 | Evobus S.A.          | Production 2,500m<span class="sup">2</span><br/>Offices 550m<span class="sup">2</span>   | Auto service plant<br/>Koropi industrial zone |
 | Filianos S.A.        | Production 3,550m<span class="sup">2</span><br/>Offices 300m<span class="sup">2</span>   | Zinc and aluminum die casting plant<br/>Schimatari, Viotia |
 | F.A. Mourikis S.A.   | Production 3,000m<span class="sup">2</span><br/>Offices 200m<span class="sup">2</span>   | Wood processing plant<br/>Mandra, Attiki |
 | Krivek S.A.          | Production 2,500m<span class="sup">2</span><br/>Offices 500m<span class="sup">2</span>   | Food processing and distribution plant<br/>Hersonisos, Kriti |
-| Kafea S.A.           | Production 2,400m<span class="sup">2</span><br/>Offices 200m<span class="sup">2</span>   | Coffee processing and distribution plant<br/>Peania Industrial Zone |
+| Media Strom S.A.     | Production 5,000m<span class="sup">2</span><br/>Offices 700m<span class="sup">2</span>   | Matress manufacturing plant<br/>Markopoulo Industrial Zone |
 | Tsanos S.A.          | Production 1,185m<span class="sup">2</span><br/>Offices 200m<span class="sup">2</span>   | Bread processing and distribution plant<br/>Markopoulo Industrial Zone |
+| Kafea S.A.           | Production 2,400m<span class="sup">2</span><br/>Offices 200m<span class="sup">2</span>   | Coffee processing and distribution plant<br/>Peania Industrial Zone |
+
+![e-papadopoulos](manufacturing/e-papadopoulos.jpg)
+E.Papadopoulos S.A. - exterior view
+{: .caption}
+
+![viamak](manufacturing/viamak.jpg)
+Viamak S.A. - exterior view
+{: .caption}
+
+![evobus-interior](manufacturing/evobus-interior.jpg)
+Evobus S.A. - interior view
+{: .caption}
+
+![filianos-exterior](manufacturing/filianos.jpg)
+Filianos S.A. - exterior view
+{: .caption}
+
+![filianos-interior](manufacturing/filianos-interior.jpg)
+Filianos S.A. - interior view
+{: .caption}
+
+![krivek](manufacturing/krivek.jpg)
+Krivek S.A. - exterior view
+{: .caption}
+
+![krivek-interior-1](manufacturing/krivek-interior-1.jpg)
+Krivek S.A. - interior view
+{: .caption}
+
+![krivek-interior-2](manufacturing/krivek-interior-2.jpg)
+Krivek S.A. - interior view
+{: .caption}
+
+![media-strom](manufacturing/media-strom.jpg)
+Media Strom S.A. - exterior view
+{: .caption}
+
+![media-strom-interior](manufacturing/media-strom-interior.jpg)
+Media Strom S.A. - interior view
+{: .caption}
+
+![tsanos](manufacturing/tsanos.jpg)
+Tsanos S.A. - exterior view
+{: .caption}
+
+![kafea](manufacturing/kafea.jpg)
+Kafea S.A. - exterior view
+{: .caption}
+
+![kafea-interior-1](manufacturing/kafea-interior-1.jpg)
+Kafea S.A. - interior view
+{: .caption}
+
+![kafea-interior-2](manufacturing/kafea-interior-2.jpg)
+Kafea S.A. - interior view
+{: .caption}
+
+![kafea-interior-3](manufacturing/kafea-interior-3.jpg)
+Kafea S.A. - interior view
+{: .caption}
+
+![kafea-interior-4](manufacturing/kafea-interior-4.jpg)
+Kafea S.A. - interior view
+{: .caption}
+
+![kafea-interior-5](manufacturing/kafea-interior-5.jpg)
+Kafea S.A. - interior view
+{: .caption}
+
 
 ### Warehousing
 
@@ -100,3 +175,80 @@ Porcelana S.A. - exterior view
 | Vekrakis Imports S.A. | Total area 4,200m<span class="sup">2</span> | Retail product storage warehouse<br/>Ipato, Viotia |
 | Cellco S.A.           | Total area 3,200m<span class="sup">2</span> | Pharmaceuticals storage warehouse<br/>Markopoulo Industrial Zone |
 | Intersys S.A.         | Total area 6,400m<span class="sup">2</span> | Electronics storage warehouse<br/>Markopoulo Industrial Zone |
+
+
+![nireas](warehousing/nireas.jpg)
+Nireas S.A. - exterior view
+{: .caption}
+
+![lymberpa](warehousing/lymberpa.jpg)
+Lymberpa S.A. - exterior view
+{: .caption}
+
+![deloudis](warehousing/deloudis.jpg)
+Ioannis Deloudis S.A. - exterior view
+{: .caption}
+
+![elmec-sport](warehousing/elmec-sport.jpg)
+Elmec Sport S.A. - exterior view
+{: .caption}
+
+![amvyx](warehousing/amvyx.jpg)
+Amvyx S.A. - exterior view
+{: .caption}
+
+![pseka](warehousing/pseka.jpg)
+Pseka S.A. - exterior view
+{: .caption}
+
+![pseka-interior-1](warehousing/pseka-interior-1.jpg)
+Pseka S.A. - interior view
+{: .caption}
+
+![pseka-interior-2](warehousing/pseka-interior-2.jpg)
+Pseka S.A. - interior view
+{: .caption}
+
+![pseka-interior-3](warehousing/pseka-interior-3.jpg)
+Pseka S.A. - interior view
+{: .caption}
+
+![pseka-interior-4](warehousing/pseka-interior-4.jpg)
+Pseka S.A. - interior view
+{: .caption}
+
+![pseka-interior-5](warehousing/pseka-interior-5.jpg)
+Pseka S.A. - interior view
+{: .caption}
+
+![vekrakis](warehousing/vekrakis.jpg)
+Vekrakis Imports S.A. - exterior view
+{: .caption}
+
+![vekrakis-interior-1](warehousing/vekrakis-interior-1.jpg)
+Vekrakis Imports S.A. - interior view
+{: .caption}
+
+![vekrakis-interior-2](warehousing/vekrakis-interior-2.jpg)
+Vekrakis Imports S.A. - interior view
+{: .caption}
+
+![vekrakis-interior-3](warehousing/vekrakis-interior-3.jpg)
+Vekrakis Imports S.A. - interior view
+{: .caption}
+
+![cellco](warehousing/cellco.jpg)
+Cellco S.A. - exterior view
+{: .caption}
+
+![cellco-interior-1](warehousing/cellco-interior-1.jpg)
+Cellco S.A. - interior view
+{: .caption}
+
+![cellco-interior-2](warehousing/cellco-interior-2.jpg)
+Cellco S.A. - interior view
+{: .caption}
+
+![intersys](warehousing/intersys.jpg)
+Intersys S.A. - exterior view
+{: .caption}
