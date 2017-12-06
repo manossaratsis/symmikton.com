@@ -25,10 +25,49 @@ Our experienced **Architectural Department** proposes the functionally and econo
 | Project                 | Size | Description |
 |:--                      |:--   | :--         |
 | Ellaktor S.A.           | Total area 70,000m<span class="sup">2</span><br/>Total tonnage 10,500tn | International Broadcast Center<br/>Marousi, Attiki |
-| Factory Outlet S.A.     | Total area 12,000m<span class="sup">2</span> | Shopping Mall<br/>Athens International Airport Retail Park |
+| Factory Outlet S.A.     | Total area 12,000m<span class="sup">2</span> | Shopping mall<br/>Athens International Airport Retail Park |
+| Porcelana S.A.          | Total area 10,000m<span class="sup">2</span> | Furniture exhibition building<br/>Markopoulo Industrial Zone |
 | A.B. Vassilopoulos S.A. | Total area 3,030m<span class="sup">2</span> | Supermarket<br/>Vrilissia, Attiki |
 | Velmar S.A.             | Total area 990m<span class="sup">2</span> | Auto exhibition building<br/>Gerakas, Attiki |
 | Sakiotis S.A.           | Total area 600m<span class="sup">2</span> | Office and retail building<br/>Pireas, Attiki |
+
+
+![ibc-1](commercial/ibc-1.jpg)
+International Broadcast Center - aerial view
+{: .caption}
+
+![ibc-2](commercial/ibc-2.jpg)
+International Broadcast Center - steel frame erection phase
+{: .caption}
+
+![ibc-3](commercial/ibc-3.jpg)
+International Broadcast Center - aerial view
+{: .caption}
+
+![factory-outlet-1](commercial/factory-outlet-1.jpg)
+Factory Outlet - aerial view with the Athens Airport landing strip in the background
+{: .caption}
+
+![factory-outlet-2](commercial/factory-outlet-2.jpg)
+Factory Outlet - facade close-up
+{: .caption}
+
+![factory-outlet-3](commercial/factory-outlet-3.jpg)
+Factory Outlet - facade close-up
+{: .caption}
+
+![ab-vassilopoulos](commercial/ab-vassilopoulos.jpg)
+A.B. Vassilopoulos S.A. - exterior view
+{: .caption}
+
+![porcelana-1](commercial/porcelana-1.jpg)
+Porcelana S.A. - facade close-up
+{: .caption}
+
+![porcelana-2](commercial/porcelana-2.jpg)
+Porcelana S.A. - exterior view
+{: .caption}
+
 
 ### Manufacturing
 
@@ -38,7 +77,7 @@ Our experienced **Architectural Department** proposes the functionally and econo
 | Skarlis Marbles S.A. | Production 2,000m<span class="sup">2</span><br/>Offices 300m<span class="sup">2</span>   | Marble processing plant<br/>Aliveri, Evia |
 | Viopremex S.A.       | Production 750m<span class="sup">2</span><br/>Offices 250m<span class="sup">2</span>   | Aluminum equipment production plant<br/>Thiva, Viotia |
 | E.Papadopoulos S.A.  | Production 2,680m<span class="sup">2</span><br/>Offices 340m<span class="sup">2</span>   | Wood processing plant with exhibition space<br/>Avlonas, Attiki |
-| Viamak S.A.          | Production 3,715m<span class="sup">2</span><br/>Offices 200m<span class="sup">2</span>   | Textile manufacturing plant<br/>Koropi industrial zone |
+| Viamak S.A.          | Production 3,715m<span class="sup">2</span><br/>Offices 200m<span class="sup">2</span>   | Textile manufacturing plant<br/>Koropi Industrial zone |
 | Evobus S.A.          | Production 2,500m<span class="sup">2</span><br/>Offices 550m<span class="sup">2</span>   | Auto service plant<br/>Koropi industrial zone |
 | Filianos S.A.        | Production 3,550m<span class="sup">2</span><br/>Offices 300m<span class="sup">2</span>   | Zinc and aluminum die casting plant<br/>Schimatari, Viotia |
 | F.A. Mourikis S.A.   | Production 3,000m<span class="sup">2</span><br/>Offices 200m<span class="sup">2</span>   | Wood processing plant<br/>Mandra, Attiki |
