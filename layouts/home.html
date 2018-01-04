@@ -1,11 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <title>Symmikton | <%= @item[:title] %></title>
-    <link rel="stylesheet" href="/css/stylesheet.css">
-    <link rel="shortcut icon" href="/img/symmikton-favicon.png" type="image/x-icon">
-    <meta name="generator" content="Nanoc <%= Nanoc::VERSION %>">
+  <%=render '/partials/head.html' %>
   </head>
   <body>
     <div class="home">
@@ -15,5 +11,5 @@
       Symmikton S.A. | Inofita, Viotia, Greece | <a href="mailto:info@symmikton.com">info@symmikton.com</a>
     </footer>
   </body>
-  <script src="/js/navbar.js"></script>
+  <%=render '/partials/scripts.html' %>
 </html>
