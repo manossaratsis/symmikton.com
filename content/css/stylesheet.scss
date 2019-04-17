@@ -1,13 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700');
+
 * {
   margin: 0;
   padding: 0;
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: 'Roboto Slab', serif;
 }
 html, body {
   overflow-x: hidden;
 }
 body {
-  background: #ddd;
+  background: #dddddd;
+  font-weight: 300;
   a {
     text-decoration: none;
     &:link,
@@ -22,6 +25,7 @@ body {
     background-color: rgba(235, 235, 235, 0.85);
     box-shadow: 3px 3px 10px rgba(20, 20, 20, 0.1);
     -webkit-box-shadow: 3px 3px 10px rgba(20, 20, 20, 0.1);
+    font-weight: 400;
     height: 3em;
     list-style-type: none;
     margin: 0;
@@ -33,14 +37,14 @@ body {
     li {
       float: left;
       &:first-child {
-        font-weight: 900;
+        font-weight: 700;
       }
       a {
         color: #000000;
         display: inline-block;
         font-size: 0.8em;
         letter-spacing: 0.15em;
-        padding: 1.3em 1.8em;
+        padding: 1.25em 1.8em;
         text-transform: uppercase;
         &.current-link {
             background-color: rgba(255, 255, 255, 1.0);
@@ -60,7 +64,7 @@ body {
       background-position: center center;
       background-size: cover;
       background-repeat: no-repeat;
-      box-shadow: 3px 3px 6px #aaa;
+      box-shadow: 3px 3px 6px #999999;
       height: 400px;
       width: 100vw;
     }
@@ -76,27 +80,26 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 7px;
-    box-shadow: 3px 3px 6px #aaa;
+    box-shadow: 3px 3px 6px #999999;
     box-sizing: border-box;
     display: inline-block;
     font-size: 1.5em;
-    font-weight: bold;
+    font-weight: 700;
     margin: 0.22em 0.15em;
     padding: 2.5em 0;
-    text-shadow: 1px 1px 2px #333;
+    text-shadow: 1px 1px 2px #333333;
     text-align: center;
     width: 100%;
     a {
-      color: #fff;
+      color: #ffffff;
     }
   }
   .caption {
-    color: #aaa;
-    font-style: italic;
+    color: #999999;
   }
   main {
     &.home {
-      left: calc((100vw - 760px)/2);
+      left: calc((100vw - 760px) / 2);
       position: relative;
       margin-top: 3em;
     }
@@ -107,14 +110,14 @@ body {
     margin-top: 3em;
     width: 760px;
     h1 {
-      border-bottom: 4px solid #bbb;
+      border-bottom: 4px solid #bbbbbb;
       font-size: 2.5em;
-      font-weight: bold;
+      font-weight: 700;
       margin-bottom: 1em;
       padding-bottom: 1em;
     }
     h2 {
-      border-bottom: 2px solid #bbb;
+      border-bottom: 2px solid #999999;
       margin-bottom: 0.5em;
       margin-top: 2em;
       padding-bottom: 0.5em;
@@ -130,15 +133,15 @@ body {
       margin-top: 1em;
       width: 100%;
       tr {
-        border-bottom: 2px solid #ccc;
+        border-bottom: 2px solid #bbbbbb;
       }
       td:first-child {
-        font-weight: bold;
+        font-weight: 700;
       }
     }
     img {
       border-radius: 7px;
-      box-shadow: 3px 3px 6px #aaa;
+      box-shadow: 3px 3px 6px #999999;
       margin-top: 2em;
       width: 100%;
     }
@@ -156,7 +159,7 @@ body {
     position: relative;
   }
   footer {
-    color: #999;
+    color: #999999;
     font-size: 14px;
     padding-bottom: 3em;
     padding-top: 6em;
@@ -185,7 +188,7 @@ body {
         box-sizing: border-box;
         clear: both;
         display: block;
-        padding-top: 1em;
+        padding-bottom: 1em;
       }
     }
     header {
