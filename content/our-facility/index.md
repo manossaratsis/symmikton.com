@@ -5,7 +5,7 @@ banner: robot.jpg
 
 # Our facility
 
-Symmikton S.A. owns a cutting-edge, ISO-certified steel structure facility located at a 6-acre lot in Inofyta, Viotia. The key technological features of this facility are:* Large daily processing capacity (30 tons of structural steel)* High precision in the construction process![facility-interior](facility-interior.jpg)Interior view of the Symmikton facility in Inofyta, Viotia
+Symmikton S.A. owns a cutting-edge, ISO-certified steel structure facility located at a 6-acre lot in Inofita, Viotia. The key technological features of this facility are:* Large daily processing capacity (30 tons of structural steel)* High precision in the construction process![facility-interior](facility-interior.jpg)Interior view of the Symmikton facility in Inofita, Viotia
 {: .caption}## Lines
 
 Technologicaly advanced machinery gives Symmikton S.A. the capacity to comprehensively address a wide range of steel structures that require production of welded profiles or processing of standard structural steel.
