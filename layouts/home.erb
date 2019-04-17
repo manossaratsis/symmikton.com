@@ -1,13 +1,13 @@
 <!DOCTYPE HTML>
 <html lang="en">
   <head>
-  <%=render '/partials/head.html' %>
+  <%=render '/partials/head.erb' %>
   </head>
   <body>
     <main class="home">
       <%= yield %>
     </main>
-    <%=render '/partials/footer.html' %>
+    <%=render '/partials/footer.erb' %>
   </body>
-  <%=render '/partials/scripts.html' %>
+  <%=render '/partials/scripts.erb' %>
 </html>
