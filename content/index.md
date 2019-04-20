@@ -7,6 +7,9 @@ image: /steel-buildings/commercial/factory-outlet-1.jpg
 Symmikton
 {: .logo}
 
+We are a vertically integrated steel structures manufacturer based in Greece
+{: .description}
+
 [Our facility](/our-facility)
 {: .thumbnail style="background-image: url(our-facility/thumb.jpg)"}
 
