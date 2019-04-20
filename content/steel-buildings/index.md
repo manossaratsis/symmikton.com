@@ -1,6 +1,7 @@
 ---
 title: Steel buildings
-banner: commercial/factory-outlet-2.jpg
+description: Symmikton S.A. undertakes steel building projects, providing integrated design and construction solutions.
+image: /steel-buildings/commercial/factory-outlet-2.jpg
 ---
 
 # Steel buildings

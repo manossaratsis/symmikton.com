@@ -1,5 +1,7 @@
 ---
 title: Home
+description: Symmikton S.A. is a vertically integrated steel structures manufacturer based in Greece.
+image: /steel-buildings/commercial/factory-outlet-1.jpg
 ---
 
 Symmikton

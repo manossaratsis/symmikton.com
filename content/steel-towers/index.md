@@ -1,11 +1,12 @@
 ---
 title: Steel towers
-banner: telecom-tower-1.jpg
+description: Symmikton S.A. undertakes the construction and development of steel towers for telecom, television, and radio broadcast networks.
+image: /steel-towers/telecom-tower-1.jpg
 ---
 
 # Steel towers
 
-Symmikton S.A. has successfully been involved in the construction and development of steel towers for telecom, television, and radio broadcast networks.
+Symmikton S.A. undertakes the construction and development of steel towers for telecom, television, and radio broadcast networks.
 
 Our company was one of the three construction companies that undertook the development of the mobile telephony network of Cosmote in Greece. Within the context of mobile telephony expansion in the Balkans, our company also undertook the construction of 50% of the Albanian Mobile Communications (AMC) network in Albania, the Cosmo Bulgaria Mobile (Globul) network in Bulgaria, and the Cosmote Romanian Mobile Telecommunications (Cosmorom) network in Romania.
 In the television broadcast network space, we undertook the construction and development of Mega Channel, the first private television network in Greece. For this project, our company managed to provide network coverage to 98% of the country in less than 2.5 years. We were also responsible for the maintenance of the broadcasting equipment and infrastructure for 4 years.
@@ -51,7 +52,7 @@ Telecom tower erection using a crane
 
 ### Telecom
 
-| Project  |Scope                                                              | Location | 
+| Project  |Scope                                                              | Location |
 |:--       |:--                                                                |:--       |
 | Cosmote  | Mobile telephony towers                                           | Greece   |
 | EMY      | Meteorological data processing tower                              | Greece   |

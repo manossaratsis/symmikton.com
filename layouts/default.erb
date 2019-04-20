@@ -5,7 +5,7 @@
   </head>
   <body>
     <%=render '/partials/navbar.erb' %>
-    <header class="banner" style="background-image: url(<%= @item[:banner] %>)"/>
+    <header class="banner" style="background-image: url(<%= @item[:image] %>)"/>
     <main>
       <%= yield %>
     </main>
