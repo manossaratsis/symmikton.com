@@ -1,8 +1,10 @@
 ---
 title: Steel buildings
 description: Symmikton S.A. undertakes steel building projects, providing integrated design and construction solutions.
-image: /steel-buildings/commercial/factory-outlet-2.jpg
+image: /img/steel-buildings/factory-outlet-2.jpg
 ---
+
+[Read in Greek](){: .disabled}
 
 # Steel buildings
 
@@ -33,39 +35,39 @@ Our experienced **Architectural Department** proposes the functionally and econo
 | Sakiotis S.A.           | Total area 600m<span class="sup">2</span> | Office and retail building<br/>Pireas, Attiki |
 
 
-![ibc-1](commercial/ibc-1.jpg)
+![ibc-1](/img/steel-buildings/ibc-1.jpg)
 Ellaktor S.A. - aerial view
 {: .caption}
 
-![ibc-2](commercial/ibc-2.jpg)
+![ibc-2](/img/steel-buildings/ibc-2.jpg)
 Ellaktor S.A. - steel frame erection phase
 {: .caption}
 
-![ibc-3](commercial/ibc-3.jpg)
+![ibc-3](/img/steel-buildings/ibc-3.jpg)
 Ellaktor S.A. - aerial view
 {: .caption}
 
-![factory-outlet-1](commercial/factory-outlet-1.jpg)
+![factory-outlet-1](/img/steel-buildings/factory-outlet-1.jpg)
 Factory Outlet S.A. - aerial view with the Athens Airport landing strip in the background
 {: .caption}
 
-![factory-outlet-2](commercial/factory-outlet-2.jpg)
+![factory-outlet-2](/img/steel-buildings/factory-outlet-2.jpg)
 Factory Outlet S.A. - facade close-up
 {: .caption}
 
-![factory-outlet-3](commercial/factory-outlet-3.jpg)
+![factory-outlet-3](/img/steel-buildings/factory-outlet-3.jpg)
 Factory Outlet S.A. - facade close-up
 {: .caption}
 
-![porcelana-1](commercial/porcelana-1.jpg)
+![porcelana-1](/img/steel-buildings/porcelana-1.jpg)
 Porcelana S.A. - facade close-up
 {: .caption}
 
-![porcelana-2](commercial/porcelana-2.jpg)
+![porcelana-2](/img/steel-buildings/porcelana-2.jpg)
 Porcelana S.A. - exterior view
 {: .caption}
 
-![ab-vassilopoulos](commercial/ab-vassilopoulos.jpg)
+![ab-vassilopoulos](/img/steel-buildings/ab-vassilopoulos.jpg)
 A.B. Vassilopoulos S.A. - exterior view
 {: .caption}
 
@@ -88,71 +90,71 @@ A.B. Vassilopoulos S.A. - exterior view
 | Kteo Kifisias S.A.      | Total area 1,000m<span class="sup">2</span> | Auto inspection building<br/>Marousi, Attiki |
 | Kafea S.A.           | Production 2,400m<span class="sup">2</span><br/>Offices 200m<span class="sup">2</span>   | Coffee processing and distribution plant<br/>Peania Industrial Zone |
 
-![e-papadopoulos](manufacturing/e-papadopoulos.jpg)
+![e-papadopoulos](/img/steel-buildings/e-papadopoulos.jpg)
 E.Papadopoulos S.A. - exterior view
 {: .caption}
 
-![viamak](manufacturing/viamak.jpg)
+![viamak](/img/steel-buildings/viamak.jpg)
 Viamak S.A. - exterior view
 {: .caption}
 
-![evobus-interior](manufacturing/evobus-interior.jpg)
+![evobus-interior](/img/steel-buildings/evobus-interior.jpg)
 Evobus S.A. - interior view
 {: .caption}
 
-![filianos-exterior](manufacturing/filianos.jpg)
+![filianos-exterior](/img/steel-buildings/filianos.jpg)
 Filianos S.A. - exterior view
 {: .caption}
 
-![filianos-interior](manufacturing/filianos-interior.jpg)
+![filianos-interior](/img/steel-buildings/filianos-interior.jpg)
 Filianos S.A. - interior view
 {: .caption}
 
-![krivek](manufacturing/krivek.jpg)
+![krivek](/img/steel-buildings/krivek.jpg)
 Krivek S.A. - exterior view
 {: .caption}
 
-![krivek-interior-1](manufacturing/krivek-interior-1.jpg)
+![krivek-interior-1](/img/steel-buildings/krivek-interior-1.jpg)
 Krivek S.A. - interior view
 {: .caption}
 
-![krivek-interior-2](manufacturing/krivek-interior-2.jpg)
+![krivek-interior-2](/img/steel-buildings/krivek-interior-2.jpg)
 Krivek S.A. - interior view
 {: .caption}
 
-![media-strom](manufacturing/media-strom.jpg)
+![media-strom](/img/steel-buildings/media-strom.jpg)
 Media Strom S.A. - exterior view
 {: .caption}
 
-![media-strom-interior](manufacturing/media-strom-interior.jpg)
+![media-strom-interior](/img/steel-buildings/media-strom-interior.jpg)
 Media Strom S.A. - interior view
 {: .caption}
 
-![kteo](manufacturing/kteo.jpg)
+![kteo](/img/steel-buildings/kteo.jpg)
 Kteo Kifisias S.A. - exterior view
 {: .caption}
 
-![kafea](manufacturing/kafea.jpg)
+![kafea](/img/steel-buildings/kafea.jpg)
 Kafea S.A. - exterior view
 {: .caption}
 
-![kafea-interior-1](manufacturing/kafea-interior-1.jpg)
+![kafea-interior-1](/img/steel-buildings/kafea-interior-1.jpg)
 Kafea S.A. - interior view
 {: .caption}
 
-![kafea-interior-2](manufacturing/kafea-interior-2.jpg)
+![kafea-interior-2](/img/steel-buildings/kafea-interior-2.jpg)
 Kafea S.A. - interior view
 {: .caption}
 
-![kafea-interior-3](manufacturing/kafea-interior-3.jpg)
+![kafea-interior-3](/img/steel-buildings/kafea-interior-3.jpg)
 Kafea S.A. - interior view
 {: .caption}
 
-![kafea-interior-4](manufacturing/kafea-interior-4.jpg)
+![kafea-interior-4](/img/steel-buildings/kafea-interior-4.jpg)
 Kafea S.A. - interior view
 {: .caption}
 
-![kafea-interior-5](manufacturing/kafea-interior-5.jpg)
+![kafea-interior-5](/img/steel-buildings/kafea-interior-5.jpg)
 Kafea S.A. - interior view
 {: .caption}
 
@@ -174,78 +176,78 @@ Kafea S.A. - interior view
 | Intersys S.A.         | Total area 6,400m<span class="sup">2</span> | Electronics storage warehouse<br/>Markopoulo Industrial Zone |
 
 
-![nireas](warehousing/nireas.jpg)
+![nireas](/img/steel-buildings/nireas.jpg)
 Nireas S.A. - exterior view
 {: .caption}
 
-![lymberpa](warehousing/lymberpa.jpg)
+![lymberpa](/img/steel-buildings/lymberpa.jpg)
 Lymberpa S.A. - exterior view
 {: .caption}
 
-![deloudis](warehousing/deloudis.jpg)
+![deloudis](/img/steel-buildings/deloudis.jpg)
 Ioannis Deloudis S.A. - exterior view
 {: .caption}
 
-![elmec-sport](warehousing/elmec-sport.jpg)
+![elmec-sport](/img/steel-buildings/elmec-sport.jpg)
 Elmec Sport S.A. - exterior view
 {: .caption}
 
-![amvyx](warehousing/amvyx.jpg)
+![amvyx](/img/steel-buildings/amvyx.jpg)
 Amvyx S.A. - exterior view
 {: .caption}
 
-![pseka](warehousing/pseka.jpg)
+![pseka](/img/steel-buildings/pseka.jpg)
 Pseka S.A. - exterior view
 {: .caption}
 
-![pseka-interior-1](warehousing/pseka-interior-1.jpg)
+![pseka-interior-1](/img/steel-buildings/pseka-interior-1.jpg)
 Pseka S.A. - interior view
 {: .caption}
 
-![pseka-interior-2](warehousing/pseka-interior-2.jpg)
+![pseka-interior-2](/img/steel-buildings/pseka-interior-2.jpg)
 Pseka S.A. - interior view
 {: .caption}
 
-![pseka-interior-3](warehousing/pseka-interior-3.jpg)
+![pseka-interior-3](/img/steel-buildings/pseka-interior-3.jpg)
 Pseka S.A. - interior view
 {: .caption}
 
-![pseka-interior-4](warehousing/pseka-interior-4.jpg)
+![pseka-interior-4](/img/steel-buildings/pseka-interior-4.jpg)
 Pseka S.A. - interior view
 {: .caption}
 
-![pseka-interior-5](warehousing/pseka-interior-5.jpg)
+![pseka-interior-5](/img/steel-buildings/pseka-interior-5.jpg)
 Pseka S.A. - interior view
 {: .caption}
 
-![vekrakis](warehousing/vekrakis.jpg)
+![vekrakis](/img/steel-buildings/vekrakis.jpg)
 Vekrakis Imports S.A. - exterior view
 {: .caption}
 
-![vekrakis-interior-1](warehousing/vekrakis-interior-1.jpg)
+![vekrakis-interior-1](/img/steel-buildings/vekrakis-interior-1.jpg)
 Vekrakis Imports S.A. - interior view
 {: .caption}
 
-![vekrakis-interior-2](warehousing/vekrakis-interior-2.jpg)
+![vekrakis-interior-2](/img/steel-buildings/vekrakis-interior-2.jpg)
 Vekrakis Imports S.A. - interior view
 {: .caption}
 
-![vekrakis-interior-3](warehousing/vekrakis-interior-3.jpg)
+![vekrakis-interior-3](/img/steel-buildings/vekrakis-interior-3.jpg)
 Vekrakis Imports S.A. - interior view
 {: .caption}
 
-![cellco](warehousing/cellco.jpg)
+![cellco](/img/steel-buildings/cellco.jpg)
 Cellco S.A. - exterior view
 {: .caption}
 
-![cellco-interior-1](warehousing/cellco-interior-1.jpg)
+![cellco-interior-1](/img/steel-buildings/cellco-interior-1.jpg)
 Cellco S.A. - interior view
 {: .caption}
 
-![cellco-interior-2](warehousing/cellco-interior-2.jpg)
+![cellco-interior-2](/img/steel-buildings/cellco-interior-2.jpg)
 Cellco S.A. - interior view
 {: .caption}
 
-![intersys](warehousing/intersys.jpg)
+![intersys](/img/steel-buildings/intersys.jpg)
 Intersys S.A. - exterior view
 {: .caption}

@@ -1,8 +1,10 @@
 ---
 title: Steel towers
 description: Symmikton S.A. undertakes the construction and development of steel towers for telecom, television, and radio broadcast networks.
-image: /steel-towers/telecom-tower-1.jpg
+image: /img/steel-towers/telecom-tower-1.jpg
 ---
+
+[Read in Greek](){: .disabled}
 
 # Steel towers
 
@@ -25,7 +27,7 @@ Our scope of work in this field can be summarized as follows:
 * Developing construction drawings
 * Submitting drawings to local authorities towards the acquisition of a building permit
 
-![telecom-tower-1](telecom-tower-1.jpg)
+![telecom-tower-1](/img/steel-towers/telecom-tower-1.jpg)
 A telecom tower location developed by Symmikton
 {: .caption}
 
@@ -38,7 +40,7 @@ A telecom tower location developed by Symmikton
 * Colorcoding, light and central power panel installation
 * Lightning protection and grounding system wiring
 
-![telecom-tower-7](telecom-tower-7.jpg)
+![telecom-tower-7](/img/steel-towers/telecom-tower-7.jpg)
 Telecom tower erection using a crane
 {: .caption}
 
@@ -48,7 +50,8 @@ Telecom tower erection using a crane
 * Ordering equipment from vendors and delivering it to the site
 * Installing and activating station and coupling equipment
 * Integrating station into broader network (via coupling or leased lines)
-## Projects
+
+## Projects
 
 ### Telecom
 
@@ -61,11 +64,11 @@ Telecom tower erection using a crane
 | Globul   | Mobile telephony towers                                           | Bulgaria |
 | Cosmorom | Mobile telephony towers                                           | Romania  |
 
-![telecom-tower-2](telecom-tower-2.jpg)
-![telecom-tower-3](telecom-tower-3.jpg)
-![telecom-tower-4](telecom-tower-4.jpg)
-![telecom-tower-6](telecom-tower-6.jpg)
-![telecom-tower-8](telecom-tower-8.jpg)
+![telecom-tower-2](/img/steel-towers/telecom-tower-2.jpg)
+![telecom-tower-3](/img/steel-towers/telecom-tower-3.jpg)
+![telecom-tower-4](/img/steel-towers/telecom-tower-4.jpg)
+![telecom-tower-6](/img/steel-towers/telecom-tower-6.jpg)
+![telecom-tower-8](/img/steel-towers/telecom-tower-8.jpg)
 
 ### TV
 
@@ -77,11 +80,11 @@ Telecom tower erection using a crane
 | Mega Channel   | Broadcast centers           | 12 locations across Greece            |
 | Mega Channel   | Repeaters                   | 19 locations across Greece            |
 
-![tv-tower-2](tv-tower-2.jpg)
-![tv-tower-3](tv-tower-3.jpg)
-![tv-equipment-1](tv-equipment-1.jpg)
-![tv-equipment-2](tv-equipment-2.jpg)
-![tv-equipment-3](tv-equipment-3.jpg)
+![tv-tower-2](/img/steel-towers/tv-tower-2.jpg)
+![tv-tower-3](/img/steel-towers/tv-tower-3.jpg)
+![tv-equipment-1](/img/steel-towers/tv-equipment-1.jpg)
+![tv-equipment-2](/img/steel-towers/tv-equipment-2.jpg)
+![tv-equipment-3](/img/steel-towers/tv-equipment-3.jpg)
 
 ### Radio
 
