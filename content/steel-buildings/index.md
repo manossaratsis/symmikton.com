@@ -4,7 +4,7 @@ description: Symmikton S.A. undertakes steel building projects, providing integr
 image: /img/steel-buildings/factory-outlet-2.jpg
 ---
 
-[Read in Greek](){: .disabled}
+[Read in Greek](/steel-buildings/gr)
 
 # Steel buildings
 
@@ -15,9 +15,36 @@ Symmikton S.A. undertakes steel building projects, providing integrated design a
 
 ### Design & permitting
 
-Our experienced **Architectural Department** proposes the functionally and economically optimal location for the building based on the preliminary location plan, while achieving high efficiency in the earthmoving works phase.The architectural study of the building, as well as its floor plan design is developed in collaboration with the client and his specific functional requirements. At the same time, the company has a Structural Design Department specializing in both concrete and steel structures. The design phase is completed with the integration of electromechanical and fire safety drawings.Symmikton S.A. has extesive experience in acquiring permits from:* Ministry of Reconstruction of Production, Environment and Energy* Ministry of Infrastructure, Transport and Networks* Forest Service* Archaeological Service* Local Governent Services* Urban Planning Department* Public Power CoprorationAfter the acquisition of the building permit and with our expertise in building projects, we guarantee short execution times for all construction operations and excellent worksmanship quality.### Construction
-Our company undertakes:
-* Earthmoving* Concreting* Industrial Flooring* Steel Frame Construction* Coatings* Plumbing* Electromechanical Works* AsphaltingFor the steel frame construction phase, Symmikton S.A. owns the most technologically advanced Steel Structure Factory in Greece, fully equiped with robotic machinery (sanding, cutting, piercing, painting) and with a daily processing capacity of 30 tons of steel.
+Our experienced **Architectural Department** proposes the functionally and economically optimal location for the building based on the preliminary location plan, while achieving high efficiency in the earthmoving works phase.
+
+The architectural study of the building, as well as its floor plan design is developed in collaboration with the client and his specific functional requirements. At the same time, the company has a **Structural Design Department** specializing in both concrete and steel structures. The design phase is completed with the integration of electromechanical and fire safety drawings.
+
+Symmikton S.A. has extesive experience in acquiring permits from:
+
+* Ministry of Reconstruction of Production, Environment and Energy
+* Ministry of Infrastructure, Transport and Networks
+* Forest Service
+* Archaeological Service
+* Local Governent Services
+* Urban Planning Department
+* Public Power Coproration
+
+### Construction
+
+After the acquisition of the building permit and with our expertise in building projects, we guarantee short execution times for all construction operations and excellent worksmanship quality.
+
+Our company undertakes:
+
+* Earthmoving
+* Concreting
+* Industrial Flooring
+* Steel Frame Construction
+* Coatings
+* Plumbing
+* Electromechanical Works
+* Asphalting
+
+For the steel frame construction phase, Symmikton S.A. owns [the most technologically advanced steel structure facility in Greece](/our-facility), fully equiped with robotic machinery (sanding, cutting, piercing, painting) and with **a daily processing capacity of 30 tons of structural steel**.
 
 
 ## Projects
@@ -84,7 +111,7 @@ A.B. Vassilopoulos S.A. - exterior view
 | Evobus S.A.          | Production 2,500m<span class="sup">2</span><br/>Offices 550m<span class="sup">2</span>   | Auto service plant<br/>Koropi industrial zone |
 | Filianos S.A.        | Production 3,550m<span class="sup">2</span><br/>Offices 300m<span class="sup">2</span>   | Zinc and aluminum die casting plant<br/>Schimatari, Viotia |
 | F.A. Mourikis S.A.   | Production 3,000m<span class="sup">2</span><br/>Offices 200m<span class="sup">2</span>   | Wood processing plant<br/>Mandra, Attiki |
-| Krivek S.A.          | Production 2,500m<span class="sup">2</span><br/>Offices 500m<span class="sup">2</span>   | Food processing and distribution plant<br/>Hersonisos, Kriti |
+| Krivek S.A.          | Production 2,500m<span class="sup">2</span><br/>Offices 500m<span class="sup">2</span>   | Food processing and distribution plant<br/>Hersonisos, Iraklio |
 | Media Strom S.A.     | Production 5,000m<span class="sup">2</span><br/>Offices 700m<span class="sup">2</span>   | Matress manufacturing plant<br/>Markopoulo Industrial Zone |
 | Tsanos S.A.          | Production 1,185m<span class="sup">2</span><br/>Offices 200m<span class="sup">2</span>   | Bread processing and distribution plant<br/>Markopoulo Industrial Zone |
 | Kteo Kifisias S.A.      | Total area 1,000m<span class="sup">2</span> | Auto inspection building<br/>Marousi, Attiki |

@@ -4,7 +4,7 @@ description: Symmikton S.A. undertakes the construction and development of steel
 image: /img/steel-towers/telecom-tower-1.jpg
 ---
 
-[Read in Greek](){: .disabled}
+[Read in Greek](/steel-towers/gr)
 
 # Steel towers
 

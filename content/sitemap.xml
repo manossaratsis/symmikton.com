@@ -5,23 +5,31 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-      <loc>https://symmikton.com/</loc>
-      <priority>1.00</priority>
+        <loc>https://symmikton.com/</loc>
+        <priority>1.00</priority>
     </url>
     <url>
-      <loc>https://symmikton.com/our-facility/index.html</loc>
-      <priority>0.80</priority>
+        <loc>https://symmikton.com/our-facility/index.html</loc>
+        <priority>0.80</priority>
     </url>
     <url>
-    <loc>https://symmikton.com/our-facility/gr/index.html</loc>
-      <priority>0.00</priority>
+        <loc>https://symmikton.com/our-facility/gr/index.html</loc>
+        <priority>0.00</priority>
     </url>
     <url>
-      <loc>https://symmikton.com/steel-buildings/index.html</loc>
-      <priority>0.80</priority>
+        <loc>https://symmikton.com/steel-buildings/index.html</loc>
+        <priority>0.80</priority>
     </url>
     <url>
-      <loc>https://symmikton.com/steel-towers/index.html</loc>
-      <priority>0.80</priority>
+        <loc>https://symmikton.com/steel-buildings/gr/index.html</loc>
+        <priority>0.00</priority>
+    </url>
+    <url>
+        <loc>https://symmikton.com/steel-towers/index.html</loc>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://symmikton.com/steel-towers/gr/index.html</loc>
+        <priority>0.00</priority>
     </url>
 </urlset>
