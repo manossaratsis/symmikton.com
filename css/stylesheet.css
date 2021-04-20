@@ -1,0 +1,189 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto Slab', serif; }
+
+html, body {
+  overflow-x: hidden; }
+
+body {
+  background: #dddddd;
+  font-weight: 300; }
+  body a {
+    text-decoration: none; }
+    body a:link, body a:visited {
+      color: #0063c3;
+      font-weight: 400; }
+      body a:link.disabled, body a:visited.disabled {
+        opacity: 40%;
+        pointer-events: none; }
+    body a:hover {
+      text-decoration: underline; }
+  body ul.nav-menu {
+    background-color: rgba(235, 235, 235, 0.85);
+    box-shadow: 3px 3px 10px rgba(20, 20, 20, 0.1);
+    -webkit-box-shadow: 3px 3px 10px rgba(20, 20, 20, 0.1);
+    font-weight: 400;
+    height: 3em;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    z-index: 1; }
+    body ul.nav-menu li {
+      float: left; }
+      body ul.nav-menu li:first-child {
+        font-weight: 700; }
+      body ul.nav-menu li a {
+        color: #000000;
+        display: inline-block;
+        font-size: 0.8em;
+        letter-spacing: 0.15em;
+        padding: 1.25em 1.8em;
+        text-transform: uppercase; }
+        body ul.nav-menu li a.current-link {
+          background-color: white; }
+        body ul.nav-menu li a:not(.current-link):hover {
+          background-color: rgba(255, 255, 255, 0.4); }
+  body .nav-button {
+    display: none;
+    outline: none; }
+  body header.banner {
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 3px 3px 6px #999999;
+    height: 400px;
+    width: 100vw; }
+  body .logo {
+    font-weight: 300;
+    font-size: 2.8em;
+    margin: 0;
+    margin-bottom: 0.5em;
+    text-transform: lowercase;
+    text-align: center; }
+  body .description {
+    color: #999999;
+    margin: 0;
+    margin-bottom: 2.5em;
+    text-align: center; }
+  body .thumbnail {
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 7px;
+    box-shadow: 3px 3px 6px #999999;
+    box-sizing: border-box;
+    display: inline-block;
+    font-size: 1.5em;
+    font-weight: 700;
+    margin: 0.22em 0.15em;
+    padding: 3em 0;
+    text-shadow: 1px 1px 2px #333333;
+    text-align: center;
+    width: 100%; }
+    body .thumbnail a {
+      color: #ffffff; }
+  body .caption {
+    color: #999999; }
+  body main {
+    font-size: 1.1em;
+    left: calc((100vw - 680px)/2);
+    line-height: 2em;
+    position: relative;
+    margin-top: 3em;
+    width: 760px; }
+    body main.home {
+      left: calc((100vw - 760px) / 2);
+      position: relative;
+      margin-top: 3em; }
+    body main h1 {
+      border-bottom: 4px solid #bbbbbb;
+      font-size: 2.5em;
+      font-weight: 700;
+      margin-bottom: 1em;
+      padding-bottom: 1em; }
+    body main h2 {
+      border-bottom: 2px solid #999999;
+      margin-bottom: 0.5em;
+      margin-top: 2em;
+      padding-bottom: 0.5em; }
+    body main h3 {
+      margin-top: 2em; }
+    body main p {
+      margin: 1em 0; }
+    body main table {
+      border-collapse: collapse;
+      margin-top: 1em;
+      width: 100%; }
+      body main table tr {
+        border-bottom: 2px solid #bbbbbb; }
+      body main table td:first-child {
+        font-weight: 700; }
+    body main img {
+      border-radius: 7px;
+      box-shadow: 3px 3px 6px #999999;
+      margin-top: 2em;
+      width: 100%; }
+    body main ul, body main ol {
+      margin: 1em; }
+      body main ul li, body main ol li {
+        list-style-type: square; }
+  body .sup {
+    bottom: 0.8em;
+    font-size: 60%;
+    margin-left: 0.1em;
+    position: relative; }
+  body footer {
+    color: #999999;
+    font-size: 0.8em;
+    margin-bottom: 3em;
+    margin-top: 5em;
+    text-align: center;
+    width: 100%; }
+
+@media (max-width: 1024px) {
+  body main {
+    font-size: 0.9em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5em;
+    position: static;
+    width: 92vw; }
+    body main.home {
+      left: 0;
+      margin-top: 3em;
+      position: relative; }
+    body main thead {
+      display: none; }
+    body main td {
+      box-sizing: border-box;
+      clear: both;
+      display: block;
+      padding-bottom: 1em; }
+  body header.banner {
+    max-height: 30em; }
+  body ul.nav-menu,
+  body ul.nav-menu.responsive {
+    height: initial;
+    position: fixed; }
+  body ul.nav-menu li:not(:first-child) {
+    display: none; }
+  body ul.nav-menu.responsive li {
+    display: inline;
+    float: none; }
+    body ul.nav-menu.responsive li a {
+      display: block;
+      margin-right: 0;
+      text-align: left; }
+  body .nav-button {
+    cursor: pointer;
+    display: block;
+    height: 1.8em;
+    position: fixed;
+    right: 1em;
+    top: 0.6em;
+    z-index: 1000; } }
